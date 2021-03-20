@@ -2,7 +2,7 @@ const express = require("express");
 const cors = require("cors");
 const app = express();
 var SerialPort = require("serialport");
-
+var Data;
 app.use(cors());
 
 const parsers = SerialPort.parsers;
@@ -21,14 +21,20 @@ var port = new SerialPort("/dev/cu.usbmodem143401", {
 port.pipe(parser);
 
 parser.on("data", function (data) {
-  console.log(data);
+  Data = data;
 });
 
 //redirection link
 
+app.use("/data", (req, res) => {
+  res.send({
+    token: [Data],
+  });
+});
+
 app.use("/login", (req, res) => {
   res.send({
-    token: "test123",
+    hello: "test123",
   });
 });
 
