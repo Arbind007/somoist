@@ -20,7 +20,7 @@ void loop() {
 
    Serial.print("Mositure : ");
 
-   Serial.print(output_value);
+   Serial.print(output_value+20);
 
    Serial.println("%");
 
