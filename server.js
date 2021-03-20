@@ -21,21 +21,20 @@ var port = new SerialPort("/dev/cu.usbmodem143401", {
 port.pipe(parser);
 
 parser.on("data", function (data) {
+  console.log(data);
   Data = data;
 });
 
 //redirection link
 
-app.use("/data", (req, res) => {
+app.use("/login", (req, res) => {
   res.send({
-    token: [Data],
+    token: "test123",
   });
 });
 
-app.use("/login", (req, res) => {
-  res.send({
-    hello: "test123",
-  });
+app.use("/data", (req, res) => {
+  res.send(Data);
 });
 
 app.listen(8080, () =>
