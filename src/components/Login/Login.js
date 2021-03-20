@@ -37,13 +37,19 @@ export default function Login({ setToken }) {
       <section className="blurbg"></section>
       <section className="bg_green"></section>
 
-      <div className="home">Home</div>
-      <div className="about">About</div>
-      <div className="team">Team</div>
+      <a href="#login" className="home">
+        Home
+      </a>
+      <a href="#login" className="about">
+        About
+      </a>
+      <a href="#login" className="team">
+        Team
+      </a>
 
       <div className="heading">SOMOIST</div>
       <div className="illustration">
-        <img src={dart}></img>
+        <img src={dart} alt="3dart"></img>
       </div>
 
       <div className="gb"></div>
@@ -72,7 +78,9 @@ export default function Login({ setToken }) {
       <div className="container">
         <form onSubmit={handleSubmit}>
           <label>
-            <p style={{ color: "white" }}>Username</p>
+            <p id="login" style={{ color: "white" }}>
+              Username
+            </p>
             <input type="text" onChange={(e) => setUserName(e.target.value)} />
           </label>
           <label>
@@ -101,7 +109,13 @@ export default function Login({ setToken }) {
         </form>
       </div>
 
-      <div className="footer"></div>
+      <div className="footer">
+        <div
+          style={{
+            color: "While",
+          }}
+        ></div>
+      </div>
     </div>
   );
 }

@@ -20,8 +20,9 @@ export default function Dashboard() {
   return (
     <div class="bg">
       <p class="head">Soil Moisture Level</p>
+
       <div className="illustration">
-        <img src={dart}></img>
+        <img src={dart} alt="3dart"></img>
       </div>
 
       <p class="data" style={{ color: "white" }}>
