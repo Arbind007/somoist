@@ -1,0 +1,51 @@
+.bg {
+  position: absolute;
+  width: 1536px;
+  height: 762px;
+  left: 0px;
+  top: 0px;
+
+  background: linear-gradient(216.58deg, #b469f7 0%, #8f26ee 100%);
+}
+
+.head {
+  position: absolute;
+  width: 846px;
+  height: 119px;
+  top: 150px;
+  left: 380px;
+
+  font-family: "Josefin Sans";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 99px;
+  line-height: 119px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+
+.data {
+  position: absolute;
+  width: 180px;
+  height: 119px;
+  top: 410px;
+  left: 500px;
+
+  font-family: "Josefin Sans";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 50px;
+  line-height: 119px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+
+.graph {
+  position: absolute;
+  top: 500px;
+  left: 720px;
+  width: 333px;
+  height: 130px;
+}

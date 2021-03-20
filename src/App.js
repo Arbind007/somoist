@@ -5,7 +5,6 @@ import Dashboard from "../src/components/Dashboard/Dashboard";
 import Preferences from "../src/components/Preference/Preference";
 import { BrowserRouter, Route, Switch } from "react-router-dom";
 import Signup from "../src/components/Signup/Signup";
-
 import useToken from "../src/useToken";
 
 function App() {
@@ -16,16 +15,14 @@ function App() {
   }
   return (
     <div className="wrapper">
-      <h1>Application</h1>
       <BrowserRouter>
         <Switch>
-          <Route path="/">
+          <Route path="/preference">
             <Preferences />
           </Route>
-          <Route path="/dashboard">
+          <Route path="/">
             <Dashboard />
           </Route>
-
           <Route path="/signup">
             <Signup />
           </Route>
