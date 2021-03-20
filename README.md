@@ -29,7 +29,7 @@ explains backend working for the login & the hosting of arduino UNO readings
 <img width="1237" alt="Screenshot 2021-03-21 at 4 32 51 AM" src="https://user-images.githubusercontent.com/80204918/111887964-8e7a2480-89fe-11eb-9b7a-ac90c5485ced.png">
 
 
-what the external hardware setup looks like, using ARDUINO UNO & sensors.
+##What the external hardware setup looks like, using ARDUINO UNO & sensors.
 
 ![WhatsApp Image 2021-03-21 at 02 27 24](https://user-images.githubusercontent.com/80204918/111886669-810c6c80-89f5-11eb-8b88-3e3b414eb250.jpeg)
 
