@@ -42,11 +42,6 @@ export default function Login({ setToken }) {
         </label>
         <div>
           <button type="submit">Submit</button>
-          <BrowserRouter>
-            <Link to="/signup" className="ml-auto mx-3">
-              <button className="btn btn-outline-info ">Sign Up</button>
-            </Link>
-          </BrowserRouter>
         </div>
       </form>
     </div>

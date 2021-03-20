@@ -19,12 +19,13 @@ function App() {
       <h1>Application</h1>
       <BrowserRouter>
         <Switch>
+          <Route path="/">
+            <Preferences />
+          </Route>
           <Route path="/dashboard">
             <Dashboard />
           </Route>
-          <Route path="/preferences">
-            <Preferences />
-          </Route>
+
           <Route path="/signup">
             <Signup />
           </Route>
