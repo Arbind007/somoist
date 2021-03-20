@@ -37,3 +37,8 @@ Reading we got on the console from arduino using soil moisture
 
 ![WhatsApp Image 2021-03-21 at 04 25 19](https://user-images.githubusercontent.com/80204918/111888038-14966b00-89ff-11eb-995c-e5b3311586e4.jpeg)
 
+Arduino setup
+
+![New Project](https://user-images.githubusercontent.com/80204918/111888548-8a9cd100-8a03-11eb-86dd-f347f7ff0656.png)
+
+
