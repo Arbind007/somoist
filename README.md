@@ -1,4 +1,5 @@
 # soMoist
+## moisture in your hand
 *for procedures to use refer Wiki*
 ## Introduction
 This project deals with the soil moisture level in the soil for farming, we use the data available for the soil and give you the ideal condition for the soil to farm, so that the farmers solves the ever rising problem of water usage is farming knowingly.
@@ -31,3 +32,8 @@ explains backend working for the login & the hosting of arduino UNO readings
 what the external hardware setup looks like, using ARDUINO UNO & sensors.
 
 ![WhatsApp Image 2021-03-21 at 02 27 24](https://user-images.githubusercontent.com/80204918/111886669-810c6c80-89f5-11eb-8b88-3e3b414eb250.jpeg)
+
+reading we got on the console from arduino using soil moisture
+
+![WhatsApp Image 2021-03-21 at 04 25 19](https://user-images.githubusercontent.com/80204918/111888038-14966b00-89ff-11eb-995c-e5b3311586e4.jpeg)
+
