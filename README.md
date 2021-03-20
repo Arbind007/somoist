@@ -1,7 +1,7 @@
 # soMoist
 *for procedures to use refer Wiki*
 ## Introduction
-this project deals with the soil moisture level in the soil for farming, we use the data available for the soil and give you the ideal condition for the soil to farm, so that the farmers solves the ever rising problem of water usage is farming knowingly.
+This project deals with the soil moisture level in the soil for farming, we use the data available for the soil and give you the ideal condition for the soil to farm, so that the farmers solves the ever rising problem of water usage is farming knowingly.
 ## Homepage
 <img width="1210" alt="Screenshot 2021-03-21 at 3 03 08 AM" src="https://user-images.githubusercontent.com/80204918/111886259-cc714b80-89f2-11eb-9ebb-b0847fa08dea.png">
 
