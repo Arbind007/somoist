@@ -1,13 +1,27 @@
-# Somoist
+# soMoist
 *for procedures to use refer Wiki*
+## Introduction
+this project deals with the soil moisture level in the soil for farming, we use the data available for the soil and give you the ideal condition for the soil to farm, so that the farmers solves the ever rising problem of water usage is farming knowingly.
 ## Homepage
 <img width="1210" alt="Screenshot 2021-03-21 at 3 03 08 AM" src="https://user-images.githubusercontent.com/80204918/111886259-cc714b80-89f2-11eb-9ebb-b0847fa08dea.png">
+
 ### Home
 brings back to the homepage from any site page you are in
+
 ### About
 somoist deals with the moisture in soil available, we deal with the moisture values in the soil and give you the required, ideal value needed for the farming.
-## Login
+
+### Login
 You have to signup through somoist account to know your dashboard.
+
 ## Dashboard 
 <img width="1271" alt="Screenshot 2021-03-21 at 3 03 58 AM" src="https://user-images.githubusercontent.com/80204918/111886254-bf545c80-89f2-11eb-9287-563dcaac1a59.png">
 
+## Preview
+explains the working of the login page.
+
+![WhatsApp Image 2021-03-21 at 03 06 29](https://user-images.githubusercontent.com/80204918/111886663-7c47b880-89f5-11eb-84db-e0d683813cca.jpeg)
+
+what the external hardware setup looks like, using ARDUINO UNO & sensors.
+
+![WhatsApp Image 2021-03-21 at 02 27 24](https://user-images.githubusercontent.com/80204918/111886669-810c6c80-89f5-11eb-8b88-3e3b414eb250.jpeg)
