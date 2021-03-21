@@ -59,7 +59,7 @@ Arduino setup
 
 ![New Project](https://user-images.githubusercontent.com/80204918/111888548-8a9cd100-8a03-11eb-86dd-f347f7ff0656.png)
 
-# Contrinutors:
+# Contributors:
 
 <table>
 <tr align="center">
@@ -83,7 +83,7 @@ Arbind Lochan Mishra
 Pushpesh Kamal
 
 <p align="center">
-<img src = "https://media-exp1.licdn.com/dms/image/C5103AQE5CkDeJQ8mmQ/profile-displayphoto-shrink_200_200/0/1573304359382?e=1621468800&v=beta&t=-uptIYAUuX4JoRcYazPr6R_HiKrZxeMjndRtMuc3YEQ"  height="120" alt="Pushpesh Kamal">
+<img src = ""  height="120" alt="Pushpesh Kamal">
 </p>
 <p align="center">
 <a href = "https://github.com/pushpeshkamal"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
