@@ -14,9 +14,11 @@ So, to solve this issue we came up with a solution using a micro controller Ardu
 With our web app the farmers will be able to see the live soil moisture content of the soil present at different location by sitting at their home. This will ease their work and they wouldn’t have to go to individual field to check the moisture of soil of different places. 
 
 ### Technology we will be using: 
-Arduino  
-Node (express) 
-Front-end (react) 
+[*] -> Arduino  
+[*] -> Node.js
+[*] -> Express.js
+[*] -> React.js
+[*] -> Mongo.db
 
 ### Future additions: 
 After we get the success of making this app, we will be adding automatic water pump to Arduino, this will ease their work as farmers, then they can water the field by sitting at their home and the water the field receives will be completely accurate as the machine will be calculating instead of human being. 
