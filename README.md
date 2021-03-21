@@ -100,7 +100,7 @@ Pushpesh Kamal
 
 
 <p align="center">
-crafted with <span style="color: #8b0000;">&hearts;</span> by team <b>Missing-Colon</b>
+crafted with <span style="color: #8b0000;">&hearts;</span> by team <b>mozo.js</b>
 </p>
 
 
