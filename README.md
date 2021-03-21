@@ -68,7 +68,7 @@ Arduino setup
 Arbind Lochan Mishra
 
 <p align="center">
-<img src = "![IMG_4085](https://user-images.githubusercontent.com/80204918/111895665-23e6da00-8a3a-11eb-94ec-25d3b23c4f6a.jpg)
+<img src = "https://media-exp1.licdn.com/dms/image/C5103AQEmZ5z3kQF7Jw/profile-displayphoto-shrink_400_400/0/1582906061549?e=1622073600&v=beta&t=JnMNzLx4WlwrDjMuyx8TydC_aTwECFuOGmQQ5v_5y1E
 "  height="120" alt="Arbind Lochan Mishra">
 </p>
 <p align="center">
@@ -84,7 +84,7 @@ Arbind Lochan Mishra
 Pushpesh Kamal
 
 <p align="center">
-<img src = "https://media-exp1.licdn.com/dms/image/C4D03AQGFtX5pMNr-Yg/profile-displayphoto-shrink_400_400/0/1601967870480?e=1622073600&v=beta&t=UvBM0WT0_xXbYo6cBgbcg5_2r34NF49sWsnAZhY97ok"  height="120" alt="Pushpesh Kamal">
+<img src = ""  height="120" alt="Pushpesh Kamal">
 </p>
 <p align="center">
 <a href = "https://github.com/pushpeshkamal"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
