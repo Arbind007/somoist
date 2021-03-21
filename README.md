@@ -6,14 +6,18 @@ This project deals with the soil moisture level in the soil for farming, we use 
 
 ### Problem: 
 As the farmers have distributed fields over a district, so it is very difficult for an individual to manage all the field at once. The moisture of the soil decreases and sometimes the farmers doesn’t know about it. This leads to reduction in the amount of crop that is being produced over the year. 
+
 ### Idea: 
 So, to solve this issue we came up with a solution using a micro controller Arduino Uno. We will be attaching the soil moisture sensor to Arduino and we will be taking the reading of the moisture content from Arduino into the backend of our web app and the data that we will be receiving in the backend will be displayed on the frontend of your web app. 
+
 ### Benefits of our idea: 
 With our web app the farmers will be able to see the live soil moisture content of the soil present at different location by sitting at their home. This will ease their work and they wouldn’t have to go to individual field to check the moisture of soil of different places. 
+
 ### Technology we will be using: 
 Arduino  
 Node (express) 
 Front-end (react) 
+
 ### Future additions: 
 After we get the success of making this app, we will be adding automatic water pump to Arduino, this will ease their work as farmers, then they can water the field by sitting at their home and the water the field receives will be completely accurate as the machine will be calculating instead of human being. 
 
@@ -54,5 +58,49 @@ Reading we got on the console from arduino using soil moisture
 Arduino setup
 
 ![New Project](https://user-images.githubusercontent.com/80204918/111888548-8a9cd100-8a03-11eb-86dd-f347f7ff0656.png)
+
+# Contrinutors:
+
+<table>
+<tr align="center">
+<td>
+
+Arbind Lochan Mishra
+
+<p align="center">
+<img src = ""  height="120" alt="Arbind Lochan Mishra">
+</p>
+<p align="center">
+<a href = "https://github.com/Arbind007"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/arbind-lochan-mishra-4a3081199/">
+<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+</a>
+</p>
+</td>
+
+<td>
+
+Pushpesh Kamal
+
+<p align="center">
+<img src = "https://media-exp1.licdn.com/dms/image/C5103AQE5CkDeJQ8mmQ/profile-displayphoto-shrink_200_200/0/1573304359382?e=1621468800&v=beta&t=-uptIYAUuX4JoRcYazPr6R_HiKrZxeMjndRtMuc3YEQ"  height="120" alt="Pushpesh Kamal">
+</p>
+<p align="center">
+<a href = "https://github.com/pushpeshkamal"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/pushpesh-kamal-682188182/">
+<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+</a>
+</p>
+</td>
+
+
+  </table>
+</tr>
+  </table>
+
+
+<p align="center">
+crafted with <span style="color: #8b0000;">&hearts;</span> by team <b>Missing-Colon</b>
+</p>
 
 
