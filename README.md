@@ -62,6 +62,10 @@ You have to signup through somoist account to know your dashboard.
 
 ![New Project](https://user-images.githubusercontent.com/80204918/111888548-8a9cd100-8a03-11eb-86dd-f347f7ff0656.png)
 
+## License
+
+This project is under the Mozilla Public License 2.0 . See <a href="https://github.com/Arbind007/somoist/blob/frontend/LICENSE"> LICENSE </a>  for Details.
+
 # Contributors:
 
 <table>
