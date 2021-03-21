@@ -84,7 +84,7 @@ Arbind Lochan Mishra
 Pushpesh Kamal
 
 <p align="center">
-<img src = ""  height="120" alt="Pushpesh Kamal">
+<img src = "https://media-exp1.licdn.com/dms/image/C4D03AQGFtX5pMNr-Yg/profile-displayphoto-shrink_400_400/0/1601967870480?e=1622073600&v=beta&t=UvBM0WT0_xXbYo6cBgbcg5_2r34NF49sWsnAZhY97ok"  height="120" alt="Pushpesh Kamal">
 </p>
 <p align="center">
 <a href = "https://github.com/pushpeshkamal"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
