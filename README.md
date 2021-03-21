@@ -1,6 +1,6 @@
 # soMoist
 ### Moisture in your hand
-*For procedures to use refer Wiki*
+*For procedures to use refer <a href="https://github.com/Arbind007/somoist/wiki">Wiki</a>*
 ## Introduction
 This project deals with the soil moisture level in the soil for farming, we use the data available for the soil and give you the ideal condition for the soil to farm, so that the farmers solves the ever rising problem of water usage is farming knowingly.
 
