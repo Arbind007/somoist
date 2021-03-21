@@ -68,7 +68,8 @@ Arduino setup
 Arbind Lochan Mishra
 
 <p align="center">
-<img src = ""  height="120" alt="Arbind Lochan Mishra">
+<img src = "![IMG_4085](https://user-images.githubusercontent.com/80204918/111895665-23e6da00-8a3a-11eb-94ec-25d3b23c4f6a.jpg)
+"  height="120" alt="Arbind Lochan Mishra">
 </p>
 <p align="center">
 <a href = "https://github.com/Arbind007"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
